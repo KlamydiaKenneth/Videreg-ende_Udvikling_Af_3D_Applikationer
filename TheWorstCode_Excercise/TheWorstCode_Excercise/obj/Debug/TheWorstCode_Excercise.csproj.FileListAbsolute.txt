@@ -1,0 +1,7 @@
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\bin\Debug\TheWorstCode_Excercise.exe.config
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\bin\Debug\TheWorstCode_Excercise.exe
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\bin\Debug\TheWorstCode_Excercise.pdb
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\obj\Debug\TheWorstCode_Excercise.csprojAssemblyReference.cache
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\obj\Debug\TheWorstCode_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\obj\Debug\TheWorstCode_Excercise.exe
+C:\Users\boels\source\repos\TheWorstCode_Excercise\TheWorstCode_Excercise\obj\Debug\TheWorstCode_Excercise.pdb
